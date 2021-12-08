@@ -1,0 +1,8 @@
+{
+  "name": "web-socket-demo",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "sockjs-client": "^1.5.2"
+  }
+}
